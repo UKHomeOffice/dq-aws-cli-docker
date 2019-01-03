@@ -1,3 +1,5 @@
+[![Docker Repository on Quay](https://quay.io/repository/ukhomeofficedigital/dq-aws-cli-docker/status "Docker Repository on Quay")](https://quay.io/repository/ukhomeofficedigital/dq-aws-cli-docker)
+
 # dq-aws-cli-docker
 
 Docker container with AWS CLI.
