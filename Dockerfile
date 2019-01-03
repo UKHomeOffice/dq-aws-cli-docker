@@ -28,4 +28,6 @@ RUN groupadd -r runner && \
 
 WORKDIR /workdir
 
+USER ${USERMAP_UID}
+
 ENTRYPOINT ["aws"]
